@@ -1,0 +1,11 @@
+{
+  "authorization": "vk_access_token_settings=friends,status&vk_app_id=7794757&vk_are_notifications_enabled=1&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=other&vk_ts=1617080899&vk_user_id=192875809&sign=t6LIsa8sM4h4RRQp1JvAIjf_5WxvLuatJspGD9VsuCs",
+  "my_id": 192875809,
+  "buy_slaves": 1,
+  "buy_fetters": 1,
+  "upgrade_slaves": 1,
+  "max_price": 26151,
+  "top_hate":0,
+  "job": ["ABOBA"],
+  "delay": 4.5
+}
